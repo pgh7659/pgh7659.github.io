@@ -23,19 +23,19 @@ sass:
 # Site Data
 url: "https://pgh7659.github.io/"
 baseurl: ""
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+title: 한글도 가능한가
+description: "한글 입력 테스트"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
+  name: PARK GILHYUN
   job_title:
   location:
-  email:
+  email: pgh7659@gmail.com
   social_links:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/pgh7659
     - name: instagram
       url:
     - name: linkedin
@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texture</h1>
+  section1: <h1>한글테스트</h1>
   section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
