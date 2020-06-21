@@ -13,6 +13,9 @@ author:
   url:               'https://github.com/pgh7659'
   email:             pgh7659@gmail.com
 
+# GitHub
+github:
+  repo:              'https://github.com/pgh7659'
 # Gems
 plugins:
   - jekyll-paginate
